@@ -1,7 +1,7 @@
 # Maintainer: Dirk Traenapp <dirk.traenapp@nwowhv.de>
 pkgname=synology-chat
-pkgver=1.0.1
-pkgrel=40
+pkgver=1.1.1
+pkgrel=57
 pkgdesc="Chat Client for Synology Chat"
 arch=('i686' 'x86_64')
 url="https://www.synology.com/support/download/"
